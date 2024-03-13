@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=NpmFbWO6HPU
 Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)
 https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22s
 
+Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)
+https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=LHBE6Q9XlzI&t=1
+
 SQL Tutorial for Beginners
 https://www.youtube.com/watch?v=h0nxCDiD-zg
 
