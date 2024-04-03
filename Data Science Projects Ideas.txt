@@ -1,0 +1,14 @@
+20 Popular Data Science Project Ideas for Beginners
+https://intellipaat.com/blog/data-science-project-ideas/#brain_tumor_detection_with_data_science
+
+Building a Brain Tumor Detector using MRI Images
+https://www.youtube.com/watch?v=CiW8gS7kqOY&list=PL5foUFuneQnratPPuucpVxWl4RlqueP1u
+
+Temperature Forecasting
+https://medium.com/@letthedataconfess/10-best-time-series-projects-you-should-practice-with-dataset-a1aea9c30de4
+
+Temperature Forecasting (Kaggle Datasets)
+https://www.kaggle.com/c/1056lab-temperature-forecasting/data
+
+temperature forcasting using ML data science projects (Youtube resources)
+https://www.youtube.com/results?search_query=temperature+forcasting+using+ML+data+science+projects
